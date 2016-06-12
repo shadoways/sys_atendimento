@@ -816,7 +816,7 @@ class HashTest extends CakeTestCase {
 	}
 
 /**
- * Test the attribute presense selector.
+ * Test the attribute presence selector.
  *
  * @return void
  */
